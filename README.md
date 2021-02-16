@@ -1,10 +1,12 @@
-# rdsReservationsSimplified
+# RDS Reservations Simplified
 
 GoLang script to calculate the normalized units for a given instance class in the RDS in a specific. This helps to simply the reservation which otherwise is a manual and time consuming task. 
 
 ## Usage 
 
-git clone https://github.com/tanveermunavar/rdsReservationsSimplified.git
+git clone https://github.com/tanveermunavar/rds-reservations-simplified.git
+
+cd rds-reservations-simplified/
 
 export GOPATH=$(go env GOPATH)
 
