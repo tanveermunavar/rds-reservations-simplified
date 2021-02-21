@@ -1,6 +1,6 @@
 # RDS Reservations Simplified
 
-GoLang script to calculate the normalized units for a given instance class in the RDS in a specific. This helps to simply the reservation which otherwise is a manual and time consuming task. 
+GoLang script to calculate the normalized units for a given instance class in the RDS in a specific region. This helps to simply the reservation which is a manual and time consuming task. 
 
 ## Usage 
 
